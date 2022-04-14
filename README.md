@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrrkdas
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, Java, and JS
 - 💞️ I’m looking to collaborate on any Machine Learning Projects
 
 
